@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-ejemplo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node express.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElFitaFlores/nodejs-ejemplo.git"
+  },
+  "author": "Rafael Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElFitaFlores/nodejs-ejemplo/issues"
+  },
+  "homepage": "https://github.com/ElFitaFlores/nodejs-ejemplo#readme"
+}
